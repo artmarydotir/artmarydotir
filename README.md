@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Im a Front-End Developer at [aasaam software development group](https://github.com/aasaam)
+
+Linux 🐧 / JavaScript 🟧  / Vue 🔻
+
