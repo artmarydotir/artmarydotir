@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Nice to meet you.👋
 
 <!--
 **artmarydotir/artmarydotir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="./me.png" alt="me">
 
-#### Im a Front-End Developer at [aasaam software development group](https://github.com/aasaam)
+#### find me around the web:
+<a href="https://www.linkedin.com/in/maryam-haghgou-5755a0159/">LinkedIn</a>
+<img align="left" width="150" height="150" src="./octocat.png">
+Working at [aasaam software development group](https://github.com/aasaam)
+I design and build user interfaces. The things i enjoy working with are Vuejs, Mevn stack, Graphql.
 
-Linux 🐧 / JavaScript 🟧  / Vue 🔻
 
