@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="./me.png" alt="me">
+<img src="https://github.com/artmarydotir/artmarydotir/blob/master/me.png" alt="me">
 
 
 <img align="left" width="150" height="150" src="./octocat.png">
