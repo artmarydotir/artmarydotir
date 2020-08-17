@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="./me.png" alt="me">
 
-#### find me around the web:
-<a href="https://www.linkedin.com/in/maryam-haghgou-5755a0159/">LinkedIn</a>
+
 <img align="left" width="150" height="150" src="./octocat.png">
 Working at [aasaam software development group](https://github.com/aasaam)
 I design and build user interfaces. The things i enjoy working with are Vuejs, Mevn stack, Graphql.
