@@ -23,4 +23,4 @@ Working at [aasaam software development group](https://github.com/aasaam).
 I design and build user interfaces. The things i enjoy working with are Vuejs, Mevn stack, Graphql.
 :computer:  :coffee:  :relaxed:
 
-![Metrics](https://metrics.lecoq.io/artmarydotir?template=classic&followup=1&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FTehran)
+<!-- ![Metrics](https://metrics.lecoq.io/artmarydotir?template=classic&followup=1&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FTehran) -->
