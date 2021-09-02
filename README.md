@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 <img align="left" width="150" height="150" src="https://github.com/artmarydotir/artmarydotir/blob/master/octocat.png">
+
 Working at [aasaam software development group](https://github.com/aasaam).
 
 I design and build user interfaces. The things i enjoy working with are Vuejs, Mevn stack, Graphql.
