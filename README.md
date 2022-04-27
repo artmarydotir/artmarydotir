@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Working at [aasaam software development group](https://github.com/aasaam).
 
-I design and build user interfaces. The things i enjoy working with are Vuejs, Mevn stack, Graphql.
+I design and build user interfaces.
 :computer:  :coffee:  :relaxed:
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=artmarydotir) -->
